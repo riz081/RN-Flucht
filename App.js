@@ -61,7 +61,7 @@ const MainApps = () => {
     </Tab.Navigator>
   )
 }
-// TESSSSS
+// TESSSSS KUUUUUUU
 const App = () => {
 
   return (
